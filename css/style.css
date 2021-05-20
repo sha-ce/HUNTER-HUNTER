@@ -120,7 +120,7 @@
             font-size: 2rem;
         }
 
-        /*mobile版対応設定*/
+/*         /*mobile版対応設定*/
         @media(max-width: 600px) {
             .background {
                 width: 100%;
@@ -131,4 +131,4 @@
                 /**/
                 opacity: 0.3;
             }
-        }
+        } */
